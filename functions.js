@@ -135,3 +135,15 @@
 // console.log(calcArea(3));
 // console.log(3.14);
 
+function celsiusToFahrenheit() {
+    var celsius = 40
+    var toFahrenheit = (celsius * (9 / 5)) + 32
+    return toFahrenheit
+}
+function fahrenheitToCelsius () {
+    var fahrenheit = 104
+    var toCelsius = (fahrenheit - 32) / 1.8
+    return toCelsius
+}
+console.log(celsiusToFahrenheit());
+console.log(fahrenheitToCelsius());
