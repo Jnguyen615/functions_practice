@@ -123,10 +123,15 @@
 //   }
 //   console.log(user1.checkMyProfile);
 
-function calCircumfrence(radius){
-    var cir = 2 * 3.14;
-    var  cicumfrence = cir * 2;
-    return radius 
-}
-console.log
+// function calCircumfrence(radius){
+//     var cir = (2 * 3.14) * radius;
+//     return cir
+// }
+// function calcArea (radius) {
+//     var area = 3.14 * Math.pow(radius, 2);
+//     return area
+// }
+// console.log(calCircumfrence(3));
+// console.log(calcArea(3));
+// console.log(3.14);
 
